@@ -20,4 +20,4 @@ This website shows their portofolio and the services provided by DELANI STUDIO. 
 ## Contact information
 * Email: bellamandy45@gmail.com
 ## Link to live site on GitHub Pages
-http://Bella-Amandine.github.io/delani-project
+https://bella-amandine.github.io/delani-project/
