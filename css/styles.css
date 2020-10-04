@@ -19,3 +19,11 @@ header {
 #about p {
     line-height: 2.3em;
 }
+#services {
+    height: 40vh;
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-position: center;
+}
+#services p {
+    line-height: 2.3em;
+}
