@@ -54,4 +54,22 @@ header {
 #product-description {
     display: none;
 }
+#design-description:hover {
+    cursor: pointer;
+}
+#development-description:hover {
+    cursor: pointer;
+}
+#product-description:hover {
+    cursor: pointer;
+}
+#design-description-img:hover {
+    cursor: pointer;
+}
+#development-description-img:hover {
+    cursor: pointer;
+}
+#product-description-img:hover {
+    cursor: pointer;
+}
 
