@@ -20,15 +20,17 @@ header {
     line-height: 2.3em;
 }
 #services {
-    height: 40vh;
-    background-image: url("../assets/backgrounds/s_image.jpg");
+    height: 60vh;
+    background: url("../assets/backgrounds/s_image.jpg");
     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #services p {
     line-height: 2.3em;
 }
 #what-we-do {
-    height: 35vh;
+    height: 100%;
 }
 #contact {
     background-image: url("../assets/backgrounds/c_image.jpg");
@@ -43,4 +45,9 @@ header {
     color: white;
 }
 
+/* @media (min-width: 576px) and (max-width: 767.98px) {
+    #services {
+        height: 100%;
+    }
+} */
 
