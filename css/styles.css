@@ -16,3 +16,6 @@ header {
     position: absolute;
     bottom: 50px;
 }
+#about p {
+    line-height: 2.3em;
+}
