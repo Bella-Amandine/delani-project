@@ -45,9 +45,13 @@ header {
     color: white;
 }
 
-/* @media (min-width: 576px) and (max-width: 767.98px) {
-    #services {
-        height: 100%;
-    }
-} */
+#design-description {
+    display: none;
+}
+#development-description {
+    display: none;
+}
+#product-description {
+    display: none;
+}
 
