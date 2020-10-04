@@ -30,3 +30,17 @@ header {
 #what-we-do {
     height: 35vh;
 }
+#contact {
+    background-image: url("../assets/backgrounds/c_image.jpg");
+}
+#contact .form-control {
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 0;
+    color: white;
+}
+#contact .form-control::placeholder {
+    color: white;
+}
+
+
