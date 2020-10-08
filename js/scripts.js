@@ -103,5 +103,11 @@ $("document").ready(function() {
         $("#work8-heading").removeClass("work-title-show")
         $("div#work8").removeClass("work-section")
     });
+
+    $("form").submit(function(event){
+        event.preventDefault();
+        var name = $("input#name").val();
+        alert(name + "We have received your email.Thank you for reaching out to us ")
+    })
     
 })
